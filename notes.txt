@@ -11,3 +11,7 @@ git status
 to add path to tracked files
 git add path\
 
+commit:
+$ git commite -m "everything added"
+
+
