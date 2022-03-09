@@ -21,3 +21,6 @@ to check all branches:
 git branch -r  (on repo)
 got branch (on local)
 
+to switch branch:
+git checkout branchname
+
