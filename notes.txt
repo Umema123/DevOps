@@ -14,4 +14,10 @@ git add path\
 commit:
 $ git commite -m "everything added"
 
+log: shows history of commit
+$ git log
+
+to check all branches:
+git branch -r  (on repo)
+got branch (on local)
 
