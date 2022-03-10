@@ -24,3 +24,5 @@ got branch (on local)
 to switch branch:
 git checkout branchname
 
+to merge branches: 
+git merge branchname                                                 ;q ==> to exit with # terminal 
